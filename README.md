@@ -16,7 +16,7 @@ The analysis was performed using **SQL (MySQL)** for data cleaning and explorati
 ---
 
 ##  Dataset
-- Freelance job postings dataset
+- Freelance job postings dataset (sourcee: kaggle, Link- https://www.kaggle.com/datasets/ahmedmyalo/upwork-freelance-jobs-60k/data?select=Final_Upwork_Dataset.csv)
 - Fields include job title, category, experience level, country, payment type, hourly rates, and fixed job cost
 
 ---
@@ -52,3 +52,4 @@ The analysis was performed using **SQL (MySQL)** for data cleaning and explorati
 
 ## Conclusion
 This project demonstrates end-to-end data analysis skills, from raw data cleaning to business insight generation and dashboard creation.
+
