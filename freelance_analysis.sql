@@ -113,7 +113,7 @@ ORDER BY avg_job_cost DESC
 LIMIT 10;
 
 -- =====================================================
--- JOIN-BASED ANALYSIS (Relational SQL)
+-- JOIN-BASED ANALYSIS(Relational SQL)
 -- =====================================================
 
 ## Creating Dimension Tables
@@ -156,7 +156,7 @@ GROUP BY d.country
 ORDER BY total_jobs DESC
 LIMIT 10;
 
-# Highest-Paying Freelance Skills by Country (Hourly Rates)
+# Highest-Paying Freelance Skills by Country(Hourly Rates)
 SELECT
     category,
     country,
