@@ -1,55 +1,83 @@
-# Freelance Skill Demand & Pricing Analysis
+## Freelance Skill Demand & Pricing Analysis
+ # Project Overview
 
-## Project Overview
-This project analyzes freelance job postings to understand skill demand, experience-level preferences, pricing patterns, and payment models in the global freelance market.
+The freelance market is highly competitive, and both freelancers and clients struggle to understand which skills are in demand, how experience affects opportunities, and how pricing varies across job types.
+This project analyzes freelance job postings to uncover skill demand patterns, experience-level trends, pricing structures, and geographic distribution of jobs using SQL and Power BI.
 
-The analysis was performed using **SQL (MySQL)** for data cleaning and exploration, and **Power BI** for interactive visualization and storytelling.
+# Objectives
 
----
+Identify high-demand freelance skills
 
-## Tools & Technologies
-- MySQL
-- SQL (Data Cleaning, Aggregation, Joins)
-- Power BI
-- GitHub
+Analyze job distribution across experience levels
 
----
+Compare hourly vs fixed-price job trends
 
-##  Dataset
-- Freelance job postings dataset (sourcee: kaggle, Link- https://www.kaggle.com/datasets/ahmedmyalo/upwork-freelance-jobs-60k/data?select=Final_Upwork_Dataset.csv)
-- Fields include job title, category, experience level, country, payment type, hourly rates, and fixed job cost
+Understand country-wise hiring patterns
 
----
+Present insights through an interactive dashboard
 
-## Key Analysis Performed
-- Cleaned raw data and converted currency fields to numeric values
-- Analyzed demand by experience level and job category
-- Identified top hiring countries for freelance work
-- Compared hourly vs fixed-price projects
-- Determined highest-paying freelance skill categories
-- Used JOINs for relational analysis
-- Built an interactive Power BI dashboard for insights
+# Dataset
 
----
+The dataset contains freelance job postings with fields such as:
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
+Job category
 
----
+Required skills
 
-## Key Insights
-- Intermediate-level roles dominate freelance demand
-- Marketing and social media roles are most frequently posted
-- Hourly projects are more common than fixed-price work
-- Specialized business and CRM-related skills command the highest hourly rates
+Experience level
 
----
+Job type (hourly / fixed price)
 
-## SQL Script
-- `freelance_analysis.sql` contains all SQL queries used for data cleaning and analysis
+Budget or hourly rate
 
----
+Client country
 
-## Conclusion
-This project demonstrates end-to-end data analysis skills, from raw data cleaning to business insight generation and dashboard creation.
+(Dataset was pre-cleaned for analysis using SQL queries.)
 
+# Tools & Technologies
+
+SQL (MySQL) – data cleaning, aggregation, and analysis
+
+Power BI – interactive dashboard creation
+
+GitHub – version control and project sharing
+
+# Methodology
+
+Data Cleaning
+
+Removed irrelevant columns
+
+Handled missing and inconsistent values
+
+Standardized categorical fields (experience level, job type)
+
+SQL Analysis
+
+Aggregated jobs by skill, category, and experience level
+
+Compared hourly vs fixed-price job distribution
+
+Analyzed pricing trends across job categories
+
+Grouped job postings by client country
+
+# Visualization
+
+Built an interactive Power BI dashboard
+
+Used slicers for category, experience level, and job type
+
+Created charts for skill demand, pricing, and geographic insights
+
+# Key Insights
+
+Intermediate-level roles dominate freelance job postings
+
+Marketing and social media skills appear frequently across projects
+
+Hourly contracts are more common than fixed-price jobs
+
+Specialized business and CRM-related skills tend to command higher pay
+
+A small number of countries account for a large share of job postings
