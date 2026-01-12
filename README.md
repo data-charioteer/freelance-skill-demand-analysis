@@ -82,13 +82,4 @@ Specialized business and CRM-related skills tend to command higher pay
 
 A small number of countries account for a large share of job postings
 
-## Sample SQL Queries
-
-### Job Distribution by Experience Level
-```sql
-SELECT experience_level, COUNT(*) AS job_count
-FROM freelance_jobs
-GROUP BY experience_level
-ORDER BY job_count DESC;
-
 
