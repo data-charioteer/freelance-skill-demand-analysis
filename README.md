@@ -2,7 +2,7 @@
  ## Project Overview
 
 The freelance market is highly competitive, and both freelancers and clients struggle to understand which skills are in demand, how experience affects opportunities, and how pricing varies across job types.
-This project analyzes freelance job postings to uncover skill demand patterns, experience-level trends, pricing structures, and geographic distribution of jobs using SQL and Power BI.
+This project analyzes freelance job postings to uncover skill demand patterns, experience-level trends, pricing structures, and geographic distribution of jobs using SQL and Power BI
 
 ## Objectives
 
@@ -81,5 +81,6 @@ Hourly contracts are more common than fixed-price jobs
 Specialized business and CRM-related skills tend to command higher pay
 
 A small number of countries account for a large share of job postings
+
 
 
