@@ -1,4 +1,8 @@
 # Freelance Skill Demand & Pricing Analysis
+ ## ## Problem Statement
+
+Freelancers and clients lack clear insights into which freelance skills are in demand, how experience affects job availability, and how pricing varies across job types. This project analyzes freelance job postings using SQL and Power BI to identify skill demand, pricing trends, and hiring patterns, helping freelancers and businesses make informed decisions.
+
  ## Project Overview
 
 The freelance market is highly competitive, and both freelancers and clients struggle to understand which skills are in demand, how experience affects opportunities, and how pricing varies across job types.
@@ -81,6 +85,7 @@ Hourly contracts are more common than fixed-price jobs
 Specialized business and CRM-related skills tend to command higher pay
 
 A small number of countries account for a large share of job postings
+
 
 
 
