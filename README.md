@@ -24,17 +24,17 @@ Present insights through an interactive dashboard
 
 The dataset contains freelance job postings with fields such as:
 
-Job category
+*Job category
 
-Required skills
+*Required skills
 
-Experience level
+*Experience level
 
-Job type (hourly / fixed price)
+*Job type (hourly / fixed price)
 
-Budget or hourly rate
+*Budget or hourly rate
 
-Client country
+*Client country
 
 (Dataset was pre-cleaned for analysis using SQL queries.)
 
