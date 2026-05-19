@@ -40,7 +40,7 @@ The dataset contains freelance job postings with fields such as:
 
 ## Tools & Technologies
 
-SQL (MySQL) – data cleaning, aggregation, and analysis
+SQL (MySQL) – data cleaning, aggregation & analysis
 
 Power BI – interactive dashboard creation
 
