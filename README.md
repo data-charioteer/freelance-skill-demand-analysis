@@ -51,7 +51,7 @@ The dataset contains real-world freelance job postings with the following fields
 | `rating` | Freelancer rating |
 | `feedbacks` | Number of client feedbacks |
 
-> **Note:** The raw dataset was cleaned using SQL before analysis. If you'd like to replicate this project, a similar dataset can be found on [Kaggle – Freelance Jobs](https://www.kaggle.com/).
+> Dataset Link- https://www.kaggle.com/datasets/ahmedmyalo/upwork-freelance-jobs-60k/data?select=Final_Upwork_Dataset.csv
 
 ---
 
