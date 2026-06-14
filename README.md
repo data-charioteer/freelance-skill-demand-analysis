@@ -109,6 +109,6 @@ Twelve analytical queries were written covering:
 
 1. **SQL Analysis** — Open `freelance_analysis.sql` in MySQL Workbench or any MySQL client and run the queries on your dataset
 2. **Power BI Dashboard** — Open `freelance_dashboard.pbix` in Power BI Desktop to explore the interactive dashboard
-3. **Dashboard Preview** — See `dashboard.png` for a quick overview of the visualizations
+3. **Dashboard Preview** — See `dashboard.png` for a quick overview of the visualizations.
 
 ---
